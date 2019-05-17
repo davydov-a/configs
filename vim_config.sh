@@ -25,3 +25,7 @@ echo "set ignorecase" >> ~/.vimrc
 echo "set number" >> ~/.vimrc
 echo "syntax on" >> ~/.vimrc
 echo "colorscheme 256-grayvim" >> ~/.vimrc
+echo "set tabstop=4" >> ~/.vimrc
+echo "set shiftwidth=4" >> ~/.vimrc
+echo "set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab" >> ~/.vimrc
+echo "set softtabstop=0 noexpandtab" >> ~/.vimrc
