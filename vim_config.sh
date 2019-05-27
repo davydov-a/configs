@@ -24,7 +24,8 @@ echo "set incsearch" >> ~/.vimrc
 echo "set ignorecase" >> ~/.vimrc
 echo "set number" >> ~/.vimrc
 echo "syntax on" >> ~/.vimrc
-echo "colorscheme 256-grayvim" >> ~/.vimrc
+echo "colorscheme lucius" >> ~/.vimrc
+echo "set background=light" >> ~/.vimrc
 echo "set expandtab" >> ~/.vimrc
 echo "set tabstop=2" >> ~/.vimrc
 echo "set shiftwidth=2" >> ~/.vimrc
